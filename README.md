@@ -1,2 +1,10 @@
 # cs61a-homework
-UCB的Python编程入门课习题及项目式作业
+课程相关资源整理如下：
+
+课程网站：https://inst.eecs.berkeley.edu/~cs61a/su20/
+
+课程视频：https://www.bilibili.com/video/BV1s3411G7yM?p=41&vd_source=317391e372ed854f6d6e8deb9d25be8a
+
+课程教材：https://www.composingprograms.com/
+
+课程教材中文翻译：https://composingprograms.netlify.app/
