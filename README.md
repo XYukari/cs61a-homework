@@ -1,4 +1,4 @@
-# cs61a-homework
+# ucb-cs61a-hw
 课程相关资源整理如下：
 
 - 课程网站：https://inst.eecs.berkeley.edu/~cs61a/su20/
