@@ -12,3 +12,4 @@
 - 提交题目 `python ok -q 01`
 - 本地测评 `python ok -q 01 --local`
 - 提交整个项目 `python ok --submit`
+- 获取得分 `python ok --score`
